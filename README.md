@@ -1,0 +1,2 @@
+# boardingschool
+A portfolio website
